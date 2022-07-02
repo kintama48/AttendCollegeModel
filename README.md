@@ -3,4 +3,4 @@ This is the code for my Introduction to AI's final project. I am using KNN Class
 
 
 #### Evaluation Metrics (Euclidean Distance):
-![](../../Pictures/Screenshot from 2022-07-02 14-00-55.png)
+![](https://i.imgur.com/UhQbOaR.png)
